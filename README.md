@@ -45,3 +45,6 @@ We've carefully selected the most compelling Black Friday and Cyber Monday deals
 In cybersecurity, staying ahead is key. As an InfoSec leader, you can shape your team's growth and your organization’s security. These Black Friday and Cyber Monday deals are a great chance to invest in their skills, showing your commitment to their development and the company’s success. Empower your team to tackle future challenges with confidence. Happy learning and happy holidays! 🎄✨
 
 # How do you protect your Organizations from Black Friday Cyber Monday Attacks?
+<p align="center">
+  <img src="./BFCM.png" alt="BFCM">
+</p>
