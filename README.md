@@ -3,7 +3,7 @@
 Black Friday isn't just for shopping; it's prime time for advancing your cybersecurity career. Our InfoSec Black Friday certification deals offer decent savings on premium certification training programs for IT professionals, DevOps Engineers, System Administrators, and IT Security managers. From AI Security to Threat Modeling, discover exclusive discounts on vendor-neutral certifications that validate your expertise and accelerate career growth.
 
 <p align="center">
-  <img src="./BFCM.png" alt="BFCM">
+  <img src="./BFCM-2025.png" alt="BFCM">
 </p>
 
 ## Why Investing in Security Certifications Pays Off
