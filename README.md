@@ -175,6 +175,20 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________
 
+
+### CyberWarFare Labs (CWL)
+[CyberWarFare Labs](https://cyberwarfare.live/) – Hands-on cybersecurity training, professional certifications, penetration testing and practical security labs.
+
+- Up to **90% OFF** selected cybersecurity course bundles.
+- Individual certifications starting at **$5**.
+- Infinity Yearly Membership: **$49** + 2 free certifications.
+- Infinity Monthly Membership: **$5**.
+- Coupon codes: `INFINITY49` (Yearly) | `INFINITY5` (Monthly).
+
+More details: [CWL Black Friday 2026](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)
+
+______________________________________________________________________________________________
+
 ## Course Bundles
 
 <table border="1" cellpadding="5" cellspacing="0">
